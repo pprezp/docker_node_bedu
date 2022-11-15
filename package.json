@@ -1,0 +1,12 @@
+{
+  "name": "node-docker-work",
+  "version": "1.0.0",
+  "description": "Prueba Docker con Node",
+  "main": "/src/app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app/app.js"
+  },
+  "author": "Pablo Perez",
+  "license": "ISC"
+}
